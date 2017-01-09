@@ -204,3 +204,5 @@ body{background-color: #f5f5f5;}
   text-align: center;color: red;
 }
 #github{color: yellow;}
+.highlighter{margin-left: 20px;font-size: 12px;}
+.highlighter-rouge{margin-left: 20px;font-size: 12px;}
