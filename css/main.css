@@ -203,6 +203,6 @@ body{background-color: #f5f5f5;}
 #github-pages-{
   text-align: center;color: red;
 }
-#github{color: yellow;}
+#github{color: yellow;margin-left: 10px;}
 body .highlighter-rouge code{font-size: 12px;color: #900;}
 body .highlighter-rouge{margin-left: 20px;}
